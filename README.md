@@ -1,3 +1,3 @@
 gitskills
 =========
-Creating a new branch is qick $ simple.
+Creating a new branch is qick and simple.
